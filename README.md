@@ -30,7 +30,7 @@ Internal components and scripts are not meant to be run manually on existing sys
 
 ## License
 
-**Copyright (c) 2024 Toca Dev Team. All Rights Reserved.**
+**Copyright (c) 2026 Toca Dev Team. All Rights Reserved.**
 
 This software is **Proprietary**. You are granted a license to use this software solely for the purpose of installing Toca Linux. 
 
